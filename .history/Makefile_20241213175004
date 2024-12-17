@@ -1,0 +1,3 @@
+holagabriel: holagabriel.c cs50.c
+	cc holagabriel.c cs50.c -o holagabriel
+

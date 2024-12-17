@@ -1,0 +1,8 @@
+holagabriel: holagabriel.c cs50.c
+	cc holagabriel.c cs50.c -o holagabriel
+
+compare: compare.c cs50.c
+	cc compare.c cs50.c -o compare
+
+agree: compare.c cs50.c
+	cc compare.c cs50.c -o compare

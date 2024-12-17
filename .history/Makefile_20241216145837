@@ -1,0 +1,15 @@
+holagabriel: holagabriel.c cs50.c
+	cc holagabriel.c cs50.c -o holagabriel
+
+compare: compare.c cs50.c
+	cc compare.c cs50.c -o compare
+
+agree: agree.c cs50.c
+	cc agree.c cs50.c -o agree
+
+meow: meow.c cs50.c
+	cc meow.c cs50.c -o meow
+
+calculator : calculator .c cs50.c
+	cc .c cs50.c -o meow
+
